@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Poppins-Thin';
+    src: url('../fonts/poppins/Poppins-Thin.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-Light';
+    src: url('../fonts/poppins/Poppins-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('../fonts/poppins/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url('../fonts/poppins/Poppins-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-Semi-Bold';
+    src: url('../fonts/poppins/Poppins-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-Bold';
+    src: url('../fonts/poppins/Poppins-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-Extra-Bold';
+    src: url('../fonts/poppins/Poppins-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: 'Poppins-Black';
+    src: url('../fonts/poppins/Poppins-Black.ttf');
+}
+
+@font-face {
+    font-family: 'Phonk-Contrast';
+    src: url('../fonts/phonk/Phonk-Contrast.otf');
+}
+
+@font-face {
+    font-family: 'Phonk-Regular';
+    src: url('../fonts/phonk/Phonk-Regular.otf');
+}

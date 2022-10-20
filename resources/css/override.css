@@ -1,0 +1,19 @@
+.tooltip-inner {
+    background-color: white;
+    opacity: 1 !important;
+    color: black;
+    font-family: 'Poppins-Regular';
+    font-size: 8pt;
+    padding-top: 7.5px !important;
+    padding-bottom: 7.5px !important;
+    border-radius: 10px !important;
+}
+
+.tooltip.bs-tooltip-top .tooltip-arrow::before {
+    border-top-color: #ffffff !important;
+}
+
+.row-no-margin {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+}
