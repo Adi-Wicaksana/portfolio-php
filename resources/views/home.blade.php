@@ -1,9 +1,9 @@
 <div class="row row-no-margin swiper-slide">
     <div class="col-12 home-content-wrap">
         <div class="container">
-            <div class="row">
+            <div class="row xs-hidden">
                 <div class="col-12 col-md-4 ps-0 ps-sm-3 ps-lg-5">
-                    <div class="home-greeting-div">
+                    <div class="px-3 px-sm-0 home-greeting-div">
                         <div>
                             <p class="font-greeting">Hello I'm</p>
                             <p class="font-name">I KETUT ADI</p>
@@ -15,10 +15,10 @@
                         </div>
                     </div>
                     <div class="mb-4" style="display: flex;">
-                        <div>
+                        <div class="home-medsos-div">
                             <button class="btn btn-default icon-medsos" data-toggle="tooltip" data-placement="top"
                                 title="anodimous.dev@gmail.com">
-                                <i class="bi bi-envelope" style="font-size: 1.25rem;"></i>
+                                <i class="bi bi-envelope mail"></i>
                             </button>
                             <button class="btn btn-default icon-medsos mx-3" data-toggle="tooltip" data-placement="top"
                                 title="+6281224164852">
@@ -36,8 +36,8 @@
                         <img class="img-fluid pp" src="{{ asset('images/pp.png') }}" />
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="ps-5 home-skill-div">
+                <div class="mt-3 mt-sm-3 mt-md-0 col-md-4">
+                    <div class="ps-lg-5 home-skill-div">
                         <div class="home-familiar-container">
                             <div class="home-familiar-div">
                                 <div class="ribbon ribbon-top-right"><span>Familiar</span></div>
