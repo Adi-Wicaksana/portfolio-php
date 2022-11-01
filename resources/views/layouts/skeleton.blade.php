@@ -45,6 +45,8 @@
                 // Optional parameters
                 direction: 'horizontal',
                 speed: 1000,
+                followFinger:false,
+                allowTouchMove: false,
                 // freeMode: true,
             });
 
