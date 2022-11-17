@@ -137,7 +137,6 @@
                         </div>
 
                         <p class="font-job-title mb-sm-1 mb-lg-3">
-                            &nbsp;
                             <font class="font-job-range mb-0-point-5">January 2021 - October 2021 (IT Solution &
                                 Innovation)
                             </font>
@@ -157,7 +156,6 @@
                         </div>
 
                         <p class="font-job-title mb-sm-1 mb-lg-3">
-                            &nbsp;
                             <font class="font-job-range">October 2021 - Present (App Research & Development)
                             </font>
                         </p>
