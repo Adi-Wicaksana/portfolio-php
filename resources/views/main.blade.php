@@ -9,7 +9,7 @@
 
         @include('work')
 
-        @include('service')
+        @include('project')
 
         @include('about')
     </div>

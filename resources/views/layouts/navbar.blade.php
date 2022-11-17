@@ -13,7 +13,7 @@
                     <a class="nav-link font-nav-link" data-slide="1" href="#">Works</a>
                 </li>
                 <li class="nav-item ps-4 ps-md-2">
-                    <a class="nav-link font-nav-link" data-slide="2" href="#">Services</a>
+                    <a class="nav-link font-nav-link" data-slide="2" href="#">Projects</a>
                 </li>
                 <li class="nav-item ps-4 ps-md-2">
                     <a class="nav-link font-nav-link" data-slide="3" href="#">About me</a>

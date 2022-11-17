@@ -31,7 +31,7 @@ mix.styles([
     'resources/css/override.css',
     'resources/css/home.css',
     'resources/css/work.css',
-    'resources/css/service.css',
+    'resources/css/project.css',
     'resources/css/about.css',
 ], 'public/css/all.css');
 
