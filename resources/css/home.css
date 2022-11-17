@@ -205,7 +205,7 @@
 
 @media (min-width: 0px) and (max-width: 575.98px) {
     .home-content-wrap {
-        min-height: 350px;
+        min-height: 1205px;
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
         background-image: url('../images/bg-sm.jpg');
@@ -251,7 +251,7 @@
 
 @media (min-width: 575.98px) and (max-width: 767.98px) {
     .home-content-wrap {
-        min-height: 350px;
+        min-height: 1205px;
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
         background-image: url('../images/bg-sm.jpg');
@@ -526,5 +526,3 @@
         transform: rotate(45deg);
     }
 }
-
-@media (min-width: 1199.98px) {}
