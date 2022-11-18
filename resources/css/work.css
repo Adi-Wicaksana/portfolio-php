@@ -65,7 +65,9 @@ ul li.font-job-desc::before {
         min-height: 1205px;
         border-bottom-left-radius: 20px;
         border-bottom-right-radius: 20px;
-        background-color: #f1f4f6;
+        background-image: url('../images/bg-sm-work.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
         display: flex;
         justify-content: center;
         align-items: center;
